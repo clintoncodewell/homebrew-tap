@@ -1,8 +1,9 @@
 class CatEye < Formula
   desc "Lightweight macOS menu bar app for GitHub Actions and PR status"
   homepage "https://github.com/clintoncodewell/cat-eye"
-  url "https://github.com/clintoncodewell/cat-eye/archive/refs/heads/main.tar.gz"
-  version "1.0.1"
+  url "https://github.com/clintoncodewell/cat-eye/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "d8fdc692eed1769aa22763a55d336e6124eb7724f3696512801b2b4cd95dde20"
+  version "1.0.2"
   license "MIT"
 
   head "https://github.com/clintoncodewell/cat-eye.git", branch: "main"
