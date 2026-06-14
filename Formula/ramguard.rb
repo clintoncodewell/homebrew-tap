@@ -1,9 +1,9 @@
 class Ramguard < Formula
   desc "Lightweight macOS menu bar monitor for RAM, CPU, disk, and network"
   homepage "https://github.com/clintoncodewell/ramguard"
-  url "https://github.com/clintoncodewell/ramguard/archive/refs/tags/v1.2.2.tar.gz"
-  sha256 "240157099d560ce22921aacea6e13e1f37f30257e1e4eebe0f5e0aa60dda4b0d"
-  version "1.2.2"
+  url "https://github.com/clintoncodewell/ramguard/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "084069f4fcf2957de8335e81d5f12452d589bdabe360373ddf561ff5ea10e703"
+  version "1.3.0"
   license "MIT"
 
   head "https://github.com/clintoncodewell/ramguard.git", branch: "main"
